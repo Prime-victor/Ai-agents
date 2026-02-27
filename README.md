@@ -1,7 +1,7 @@
 # Obi-Kaya Smart Community Assistant Agent
 
 ## Overview
-Obi-Kaya is a Smart Community Assistant Agent designed to empower Google Developer Group (GDG) organizers, especially in Sub-Saharan Africa, to maximize their community's impact, secure partnerships, and sustain engagement. The agent analyzes community data, generates actionable recommendations, crafts partnership/sponsorship pitches, and provides strategies for ongoing engagement. It is multilingual and can respond in most African languages.
+Obi-Kaya is a Smart Community Assistant Agent designed to empower Google Developer Group organizers, especially in Sub-Saharan Africa, to maximize their community's impact, secure partnerships, and sustain engagement. The agent analyzes community data, generates actionable recommendations, crafts partnership/sponsorship pitches, and provides strategies for ongoing engagement. It is multilingual and can respond in most African languages.
 
 ## Project Structure
 
@@ -22,7 +22,7 @@ obi_kaya_agent/
 
 ## Installation
 
-1. **Clone or Fork the Repository**
+1. **Fork the Repository then clone**
    ```sh
    git clone https://github.com/<your-username>/Obi-Kaya.git
    cd Obi-Kaya
